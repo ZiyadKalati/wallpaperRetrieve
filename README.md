@@ -25,9 +25,9 @@ To download them you use homebrew, which you first need to install. So type the 
 
 Then type in:
 
-  brew install wget
+  `brew install wget`
   
-  brew install jq
+  `brew install jq`
 
 # Arguments
 There are two arguments passed to the script.
