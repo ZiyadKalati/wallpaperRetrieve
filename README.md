@@ -8,6 +8,7 @@ You will have to register your application in your account.
 Go to DeviantArt.com and sign in. Scroll to the bottom of the page to the footer and click developers.
 On the page that comes up click the green button saying "Register your Application".
 Under "Application Settings", "OAuth2 Grant Type" is set to "Authorizaion Code" and in the first text box labeled "OAuth2 Redirect URI Whitelist (Required)" type in:
+  
   http://localhost:8000/deviantart/auth
 
 and then submit.
@@ -25,6 +26,7 @@ To download them you use homebrew, which you first need to install. So type the 
 Then type in:
 
   brew install wget
+  
   brew install jq
 
 # Arguments
