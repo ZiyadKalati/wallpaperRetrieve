@@ -19,7 +19,10 @@ Open the credentials.json file and fill in the labeled spaces with the client_id
 
 # Dependencies
 jq to parse json objects
+
 wget to download the images
+
+ImageMagick to convert the image formats
 
 To download them you use homebrew, which you first need to install. So type the following into the terminal:
 
@@ -30,6 +33,8 @@ Then type in:
   `brew install wget`
   
   `brew install jq`
+  
+  `brew install imagemagick`
 
 # Arguments
 There are two arguments passed to the script.
