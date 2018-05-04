@@ -3,7 +3,9 @@
 I only know this works on Mac OS X, so this is to the Mac users.
 
 This script downloads deviations from artists that you watch on DeviantArt.
-You will have to register your application in your account.
+It stores portrait images and landscape images in different folders and square images in both.
+If the script is run more than once it will not re-download images it has downloaded in a previous run.
+You will have to register this application in your account on DeviantArt, as this shell uses their API.
 
 Go to DeviantArt.com and sign in. Scroll to the bottom of the page to the footer and click developers.
 On the page that comes up click the green button saying "Register your Application".
