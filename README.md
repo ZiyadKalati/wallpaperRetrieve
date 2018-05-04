@@ -21,7 +21,7 @@ wget to download the images
 
 To download them you use homebrew, which you first need to install. So type the following into the terminal:
 
-  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 Then type in:
 
